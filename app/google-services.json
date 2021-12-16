@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205630720538",
+    "project_id": "nicotiana-f99c8",
+    "storage_bucket": "nicotiana-f99c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205630720538:android:e69bdba13e3b79c2109fa3",
+        "android_client_info": {
+          "package_name": "id.ac.umn.nicotiana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205630720538-2qn8krbl6sv86r67926ge15r1phrbkng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIozhunXDJgzQU--TmYgAj3pzFIoPl3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205630720538-2qn8krbl6sv86r67926ge15r1phrbkng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
